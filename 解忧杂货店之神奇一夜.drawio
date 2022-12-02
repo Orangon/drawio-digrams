@@ -1,0 +1,133 @@
+<mxfile host="65bd71144e">
+    <diagram id="LieUYTp3b770Z3-IE5YT" name="第 1 页">
+        <mxGraphModel dx="990" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+                    <mxGeometry x="269" y="425" width="280" height="320" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="后门" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="269" y="600" width="70" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" style="edgeStyle=none;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5" target="16">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="牛奶箱" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+                    <mxGeometry x="194" y="547.5" width="75" height="75" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="前门" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="469" y="505" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="信箱" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+                    <mxGeometry x="549" y="545" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="&lt;span style=&quot;color: rgb(50 , 50 , 50) ; font-size: 14px ; font-style: normal ; font-weight: 400 ; letter-spacing: 0.1px ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; display: inline ; float: none&quot;&gt;1979年9月12日——13日&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="329" y="395" width="160" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" style="edgeStyle=none;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="12" target="9">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="来自：&lt;br&gt;百分小毛头&lt;br&gt;&lt;br&gt;绿河的女儿&lt;br&gt;&lt;br&gt;保罗 ·列侬&lt;br&gt;&lt;br&gt;一张白纸" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+                    <mxGeometry x="680" y="465" width="100" height="240" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" style="edgeStyle=none;html=1;" edge="1" parent="1" source="14" target="5">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="浪矢雄治" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="394" y="555" width="30" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="给白纸的回信" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+                    <mxGeometry x="60" y="545" width="100" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+                    <mxGeometry x="1089" y="425" width="280" height="320" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="后门" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="1089" y="600" width="70" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" style="edgeStyle=none;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="21" target="29" parent="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" value="牛奶箱" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+                    <mxGeometry x="1014" y="547.5" width="75" height="75" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="前门" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="1289" y="505" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" value="信箱" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+                    <mxGeometry x="1369" y="545" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="25" style="edgeStyle=none;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="26" target="23" parent="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="26" value="鱼店音乐人 3" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+                    <mxGeometry x="1500" y="540" width="100" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" style="edgeStyle=none;html=1;" edge="1" source="28" target="21" parent="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="28" value="幸平" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="1214" y="555" width="30" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="29" value="寄给：&lt;br&gt;月兔&lt;br&gt;&lt;br&gt;鱼店音乐人&lt;br&gt;&lt;br&gt;迷途的小狗&lt;br&gt;&lt;br&gt;最后回信前&lt;br&gt;投入一张白纸" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+                    <mxGeometry x="880" y="465" width="100" height="240" as="geometry"/>
+                </mxCell>
+                <mxCell id="30" value="&lt;span style=&quot;color: rgb(50 , 50 , 50) ; font-size: 14px ; font-style: normal ; font-weight: 400 ; letter-spacing: 0.1px ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; display: inline ; float: none&quot;&gt;2012年9月13日凌晨到黎明&lt;br&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;span style=&quot;letter-spacing: 0.1px&quot;&gt;0时至6时&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="1141.25" y="385" width="175.5" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="31" value="翔太" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="1259" y="645" width="30" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="32" value="敦也" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="1184" y="460" width="30" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="33" value="&lt;span style=&quot;color: rgb(50 , 50 , 50) ; font-size: 14px ; font-style: normal ; font-weight: 400 ; letter-spacing: 0.1px ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; display: inline ; float: none&quot;&gt;2012年9月13日凌晨&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="662.75" y="435" width="134.5" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="34" value="&lt;span style=&quot;color: rgb(50 , 50 , 50) ; font-size: 14px ; font-style: normal ; font-weight: 400 ; letter-spacing: 0.1px ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; display: inline ; float: none&quot;&gt;2012年9月13日凌晨&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="42.75" y="515" width="134.5" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="38" style="edgeStyle=orthogonalEdgeStyle;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="35" target="23">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="35" value="月兔 7" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+                    <mxGeometry x="1500" y="425" width="100" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="39" style="edgeStyle=orthogonalEdgeStyle;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="36" target="23">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="36" value="迷途的小狗 4" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+                    <mxGeometry x="1500" y="665" width="100" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="40" value="&lt;span style=&quot;color: rgb(50 , 50 , 50) ; font-size: 14px ; font-style: normal ; font-weight: 400 ; letter-spacing: 0.1px ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; display: inline ; float: none&quot;&gt;1979年11月——1980年5月&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="1460" y="395" width="174.5" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="43" value="&lt;span style=&quot;color: rgb(50 , 50 , 50) ; font-size: 14px ; font-style: normal ; font-weight: 400 ; letter-spacing: 0.1px ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; display: inline ; float: none&quot;&gt;1980年8月&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="1511.3700000000001" y="510" width="77.25" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="44" value="&lt;span style=&quot;color: rgb(50 , 50 , 50) ; font-size: 14px ; font-style: normal ; font-weight: 400 ; letter-spacing: 0.1px ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; display: inline ; float: none&quot;&gt;1980年8月——&lt;/span&gt;&lt;span style=&quot;color: rgb(50 , 50 , 50) ; font-size: 14px ; letter-spacing: 0.1px ; background-color: rgb(255 , 255 , 255)&quot;&gt;1980年9月13日&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="1451.3700000000001" y="635" width="197.25" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="47" value="&lt;span style=&quot;color: rgb(50 , 50 , 50) ; font-size: 14px ; font-style: normal ; font-weight: 400 ; letter-spacing: 0.1px ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; display: inline ; float: none&quot;&gt;1979年9月——1980年9月&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="842.75" y="435" width="174.5" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="49" value="未来" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+                    <mxGeometry x="60" y="680" width="100" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="50" value="过去" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+                    <mxGeometry x="60" y="720" width="100" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="51" value="" style="endArrow=none;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;strokeWidth=3;dashed=1;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="827" y="880" as="sourcePoint"/>
+                        <mxPoint x="827" y="320" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="52" value="&lt;div style=&quot;text-align: center&quot;&gt;&lt;font&gt;&lt;span style=&quot;font-size: 14px; letter-spacing: 0.1px;&quot;&gt;月兔的回信已经写过，音乐人去世，小狗未寄到店主手里，而是被“打劫”&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#FFFF61;gradientColor=none;strokeColor=none;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="1">
+                    <mxGeometry x="1110.5" y="760" width="237" height="40" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
