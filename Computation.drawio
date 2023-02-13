@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-13T12:10:23.535Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="XFObbFECmedF_AbTribN" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-13T12:15:21.140Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="rMa9usZKgGJfFRY5FdKp" version="20.8.20" type="github">
   <diagram id="T4FZp3LpQJDMUk-Gc5tJ" name="第 1 页">
-    <mxGraphModel dx="2295" dy="909" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1657" dy="514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -32,7 +32,7 @@
           <mxGeometry x="140" y="510" width="560" height="180" as="geometry" />
         </mxCell>
         <mxCell id="LZYaPzqgYT7a62YiZSau-11" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;div style=&quot;color: rgb(101, 123, 131); background-color: rgb(253, 246, 227); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; font-size: 12px; line-height: 18px;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #859900;&quot;&gt;ModelInfo_Basic&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="270" y="550" width="140" height="40" as="geometry" />
+          <mxGeometry x="270" y="566" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LZYaPzqgYT7a62YiZSau-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=11;strokeColor=#d79b00;fillColor=#ffe6cc;strokeWidth=2;" parent="1" source="LZYaPzqgYT7a62YiZSau-12" target="LZYaPzqgYT7a62YiZSau-13" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -43,7 +43,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LZYaPzqgYT7a62YiZSau-12" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;div style=&quot;color: rgb(101, 123, 131); background-color: rgb(253, 246, 227); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; font-size: 12px; line-height: 18px;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #859900;&quot;&gt;ModelInfo_Run&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="460" y="550" width="100" height="30" as="geometry" />
+          <mxGeometry x="460" y="566" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LZYaPzqgYT7a62YiZSau-13" value="&lt;meta charset=&quot;utf-8&quot; style=&quot;font-size: 15px;&quot;&gt;&lt;div style=&quot;color: rgb(101, 123, 131); background-color: rgb(253, 246, 227); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; font-size: 15px; line-height: 18px;&quot;&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;color: rgb(133, 153, 0); font-size: 15px;&quot;&gt;ModelInfo_Run&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=none;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="80" y="790" width="680" height="370" as="geometry" />
@@ -58,19 +58,19 @@
           <mxGeometry x="120" y="950" width="600" height="170" as="geometry" />
         </mxCell>
         <mxCell id="LZYaPzqgYT7a62YiZSau-16" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;div style=&quot;color: rgb(101, 123, 131); background-color: rgb(253, 246, 227); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; font-size: 12px; line-height: 18px;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #859900;&quot;&gt;ModelParameters&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="140" y="1010" width="140" height="40" as="geometry" />
+          <mxGeometry x="140" y="1020" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LZYaPzqgYT7a62YiZSau-17" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;div style=&quot;color: rgb(101, 123, 131); background-color: rgb(253, 246, 227); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; font-size: 12px; line-height: 18px;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #859900;&quot;&gt;ModelTask&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="290" y="1010" width="100" height="40" as="geometry" />
+          <mxGeometry x="290" y="1020" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LZYaPzqgYT7a62YiZSau-18" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;div style=&quot;color: rgb(101, 123, 131); background-color: rgb(253, 246, 227); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; font-size: 12px; line-height: 18px;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #859900;&quot;&gt;ModelMonitor&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="400" y="1010" width="120" height="40" as="geometry" />
+          <mxGeometry x="410" y="1020" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LZYaPzqgYT7a62YiZSau-19" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;div style=&quot;color: rgb(101, 123, 131); background-color: rgb(253, 246, 227); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; font-size: 12px; line-height: 18px;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #859900;&quot;&gt;ModelSuccess&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="540" y="990" width="120" height="40" as="geometry" />
+          <mxGeometry x="540" y="1020" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LZYaPzqgYT7a62YiZSau-20" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;div style=&quot;color: rgb(101, 123, 131); background-color: rgb(253, 246, 227); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; font-size: 12px; line-height: 18px;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #859900;&quot;&gt;ModelFaild&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="540" y="1040" width="110" height="40" as="geometry" />
+          <mxGeometry x="540" y="1060" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nlev7-8-w-J0k4HLFC_z-1" value="&lt;meta charset=&quot;utf-8&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;div style=&quot;color: rgb(101, 123, 131); background-color: rgb(253, 246, 227); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; font-size: 16px; line-height: 18px;&quot;&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;color: rgb(38, 139, 210); font-size: 16px;&quot;&gt;ModelDrawer&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=none;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="80" y="10" width="680" height="210" as="geometry" />
@@ -131,11 +131,38 @@
         <mxCell id="nlev7-8-w-J0k4HLFC_z-23" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;div style=&quot;color: rgb(101, 123, 131); background-color: rgb(253, 246, 227); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; font-size: 12px; line-height: 18px;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #859900;&quot;&gt;ModelRunHistory&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=none;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="-570" y="440" width="520" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="nlev7-8-w-J0k4HLFC_z-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=2;" edge="1" parent="1" source="nlev7-8-w-J0k4HLFC_z-24" target="LZYaPzqgYT7a62YiZSau-1">
+        <mxCell id="nlev7-8-w-J0k4HLFC_z-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.001;entryY=0.549;entryDx=0;entryDy=0;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=2;entryPerimeter=0;" edge="1" parent="1" source="nlev7-8-w-J0k4HLFC_z-24" target="LZYaPzqgYT7a62YiZSau-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nlev7-8-w-J0k4HLFC_z-24" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;div style=&quot;color: rgb(101, 123, 131); background-color: rgb(253, 246, 227); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; font-size: 12px; line-height: 18px;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #859900;&quot;&gt;ModelModal&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-350" y="485" width="80" height="40" as="geometry" />
+          <mxGeometry x="-350" y="510" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nlev7-8-w-J0k4HLFC_z-26" value="模型运行对话框" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-360" y="490" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nlev7-8-w-J0k4HLFC_z-27" value="模型工具箱" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="40" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nlev7-8-w-J0k4HLFC_z-28" value="模型元数据" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="280" y="545" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nlev7-8-w-J0k4HLFC_z-29" value="模型计算导航" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="460" y="545" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nlev7-8-w-J0k4HLFC_z-30" value="第一步——第四步" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="320" y="900" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nlev7-8-w-J0k4HLFC_z-31" value="模型参数设置" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="140" y="990" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nlev7-8-w-J0k4HLFC_z-32" value="任务信息设置" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="270" y="990" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nlev7-8-w-J0k4HLFC_z-33" value="模型运行" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="400" y="990" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nlev7-8-w-J0k4HLFC_z-34" value="运行结果" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="530" y="990" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
