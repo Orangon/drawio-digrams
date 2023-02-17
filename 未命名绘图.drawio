@@ -1,12 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2023-02-17T11:14:42.926Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="iVPF8LdSNVYkHzWkpSXF" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-17T11:26:46.669Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="mMSkjPZe7J7e07TRkpM9" version="20.8.20" type="github">
   <diagram name="第 1 页" id="Rmnb_0TzzEGHH6VF-t5r">
-    <mxGraphModel dx="954" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1781" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="pDU_JrlTvp6zQg8uNNu5-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="pDU_JrlTvp6zQg8uNNu5-2" target="pDU_JrlTvp6zQg8uNNu5-14">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="359" y="150" as="targetPoint" />
+            <mxPoint x="279" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pDU_JrlTvp6zQg8uNNu5-12" value="源码" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" vertex="1" connectable="0" parent="pDU_JrlTvp6zQg8uNNu5-4">
@@ -15,17 +15,20 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pDU_JrlTvp6zQg8uNNu5-2" value="C/C++&lt;br&gt;IDE" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="120" y="120" width="139" height="60" as="geometry" />
+          <mxGeometry x="40" y="120" width="139" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pDU_JrlTvp6zQg8uNNu5-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="1" source="pDU_JrlTvp6zQg8uNNu5-10" target="pDU_JrlTvp6zQg8uNNu5-37">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pDU_JrlTvp6zQg8uNNu5-10" value="操作系统" style="whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="640" y="240" width="110" height="60" as="geometry" />
+          <mxGeometry x="550" y="180" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pDU_JrlTvp6zQg8uNNu5-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="1" source="pDU_JrlTvp6zQg8uNNu5-14" target="pDU_JrlTvp6zQg8uNNu5-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pDU_JrlTvp6zQg8uNNu5-16" value="机器码" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" vertex="1" connectable="0" parent="pDU_JrlTvp6zQg8uNNu5-15">
           <mxGeometry x="0.24" relative="1" as="geometry">
-            <mxPoint x="-113" y="-20" as="offset" />
+            <mxPoint x="-39" y="-78" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pDU_JrlTvp6zQg8uNNu5-23" value="机器码：二进制可执行文件" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" vertex="1" connectable="0" parent="pDU_JrlTvp6zQg8uNNu5-15">
@@ -34,11 +37,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pDU_JrlTvp6zQg8uNNu5-14" value="编译器" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="359" y="120" width="100" height="60" as="geometry" />
+          <mxGeometry x="279" y="120" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pDU_JrlTvp6zQg8uNNu5-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;" edge="1" source="pDU_JrlTvp6zQg8uNNu5-19" target="pDU_JrlTvp6zQg8uNNu5-20" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="359" y="430" as="targetPoint" />
+            <mxPoint x="279" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pDU_JrlTvp6zQg8uNNu5-18" value="源码" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" vertex="1" connectable="0" parent="pDU_JrlTvp6zQg8uNNu5-17">
@@ -47,22 +50,22 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pDU_JrlTvp6zQg8uNNu5-19" value="Python/Javascript&lt;br&gt;IDE" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="120" y="400" width="139" height="60" as="geometry" />
+          <mxGeometry x="40" y="240" width="139" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pDU_JrlTvp6zQg8uNNu5-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="pDU_JrlTvp6zQg8uNNu5-20" target="pDU_JrlTvp6zQg8uNNu5-10">
+        <mxCell id="pDU_JrlTvp6zQg8uNNu5-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="pDU_JrlTvp6zQg8uNNu5-20" target="pDU_JrlTvp6zQg8uNNu5-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pDU_JrlTvp6zQg8uNNu5-22" value="机器码" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" vertex="1" connectable="0" parent="pDU_JrlTvp6zQg8uNNu5-21">
           <mxGeometry x="-0.4475" y="3" relative="1" as="geometry">
-            <mxPoint y="-17" as="offset" />
+            <mxPoint x="-16" y="-17" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pDU_JrlTvp6zQg8uNNu5-20" value="解释器" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="359" y="400" width="100" height="60" as="geometry" />
+          <mxGeometry x="279" y="240" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pDU_JrlTvp6zQg8uNNu5-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;" edge="1" source="pDU_JrlTvp6zQg8uNNu5-26" target="pDU_JrlTvp6zQg8uNNu5-27" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="359" y="270" as="targetPoint" />
+            <mxPoint x="279" y="415" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pDU_JrlTvp6zQg8uNNu5-25" value="源码" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" vertex="1" connectable="0" parent="pDU_JrlTvp6zQg8uNNu5-24">
@@ -70,11 +73,31 @@
             <mxPoint y="-23" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pDU_JrlTvp6zQg8uNNu5-26" value="C/C++&lt;br&gt;IDE" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="120" y="240" width="139" height="60" as="geometry" />
+        <mxCell id="pDU_JrlTvp6zQg8uNNu5-26" value="Java/C#&lt;br&gt;IDE" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="40" y="385" width="139" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pDU_JrlTvp6zQg8uNNu5-27" value="编译器" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="359" y="240" width="100" height="60" as="geometry" />
+        <mxCell id="pDU_JrlTvp6zQg8uNNu5-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="pDU_JrlTvp6zQg8uNNu5-27" target="pDU_JrlTvp6zQg8uNNu5-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pDU_JrlTvp6zQg8uNNu5-34" value="字节码" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" vertex="1" connectable="0" parent="pDU_JrlTvp6zQg8uNNu5-33">
+          <mxGeometry x="0.06" y="1" relative="1" as="geometry">
+            <mxPoint x="-3" y="-20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pDU_JrlTvp6zQg8uNNu5-27" value="编译器 JDK" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="279" y="385" width="101" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pDU_JrlTvp6zQg8uNNu5-28" value="一次编译，无限次运行" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="470" y="135" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pDU_JrlTvp6zQg8uNNu5-29" value="一边解释，一边执行" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="470" y="255" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pDU_JrlTvp6zQg8uNNu5-32" value="虚拟机 JRE" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="560" y="385" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pDU_JrlTvp6zQg8uNNu5-37" value="CPU" style="whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="707" y="180" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
