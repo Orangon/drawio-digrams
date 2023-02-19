@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-18T03:15:45.178Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="xZ6L3hL5UwwxmdDnvwzj" version="20.8.20" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-02-19T02:17:17.625Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="_XPbecdmBaDD5ko8mmk6" version="20.8.20" type="github" pages="2">
   <diagram id="T4FZp3LpQJDMUk-Gc5tJ" name="课题1">
-    <mxGraphModel dx="1593" dy="573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1620" dy="573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -229,6 +229,15 @@
         </mxCell>
         <mxCell id="U6TcWgrr0_R1wzN5hT8i-25" value="高阶组件？" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="910" y="606" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5hRKipNhRNURSHAW4hCL-1" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;div style=&quot;color: rgb(101, 123, 131); background-color: rgb(253, 246, 227); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; font-size: 12px; line-height: 18px;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #268bd2;&quot;&gt;renderGroup&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="-360" y="810" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5hRKipNhRNURSHAW4hCL-2" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;div style=&quot;color: rgb(101, 123, 131); background-color: rgb(253, 246, 227); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; font-size: 12px; line-height: 18px;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #268bd2;&quot;&gt;renderComponent&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="-360" y="840" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5hRKipNhRNURSHAW4hCL-4" value="遍历传入的元数据中的对象数组 env，如果有属性 children 就渲染 renderGroup" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="856.25" y="640" width="207.5" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
