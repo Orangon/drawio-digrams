@@ -56,7 +56,7 @@
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="WhTbvDPNfGWsVlGT7gJu-26" value="系统设计" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="353" y="650" width="120" height="40" as="geometry"/>
+                    <mxGeometry x="354" y="650" width="120" height="40" as="geometry"/>
                 </mxCell>
                 <mxCell id="WhTbvDPNfGWsVlGT7gJu-27" value="详细设计" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="463" y="720" width="120" height="40" as="geometry"/>
