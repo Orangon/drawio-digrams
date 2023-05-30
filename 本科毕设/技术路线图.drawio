@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-30T13:51:36.592Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="UFXhe5z_7Rk-BsgpcbXD" version="21.3.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-05-30T14:01:10.623Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="ZknBsm1WZb0neA66nVaA" version="21.3.5" type="github" pages="2">
   <diagram name="第 1 页" id="gvvvwDGwYdc-F95-gQ5J">
     <mxGraphModel dx="954" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -156,13 +156,14 @@
         <mxCell id="GRxtHd-O3ANrQLIUg0pe-8" value="技术选型" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="190" y="98" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="T36rx0OrL-NOdISSQDNR-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="GRxtHd-O3ANrQLIUg0pe-10" target="GRxtHd-O3ANrQLIUg0pe-18">
+        <mxCell id="T36rx0OrL-NOdISSQDNR-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="GRxtHd-O3ANrQLIUg0pe-10" target="GRxtHd-O3ANrQLIUg0pe-18">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="964" y="27" as="targetPoint" />
             <Array as="points">
               <mxPoint x="250" y="610" />
               <mxPoint x="490" y="610" />
               <mxPoint x="490" y="40" />
-              <mxPoint x="741" y="40" />
+              <mxPoint x="731" y="40" />
             </Array>
           </mxGeometry>
         </mxCell>
